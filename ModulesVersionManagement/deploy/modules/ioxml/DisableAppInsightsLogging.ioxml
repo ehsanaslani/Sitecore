@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<IOActions>
+ <IOAction path="App_Config\Include\zzz\Sitecore.Cloud.ApplicationInsights.config" action="disable" />
+</IOActions>

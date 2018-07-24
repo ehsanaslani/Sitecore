@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ModulesVersionManagement/build
+/ModulesVersionManagement/packages
+/ModulesVersionManagement/src/**/bin
+/ModulesVersionManagement/src/**/obj
+/ModulesVersionManagement/deploy/packages/*.*
