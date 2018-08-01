@@ -7,3 +7,6 @@
 /ModulesVersionManagement/src/**/bin
 /ModulesVersionManagement/src/**/obj
 /ModulesVersionManagement/deploy/packages/*.*
+/.vs
+/Habitat
+/ModulesVersionManagement/.vs
